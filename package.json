@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "whois-json": "^2.0.4"
+  }
+}
